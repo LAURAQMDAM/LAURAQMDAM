@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola!!👋
+INFORMACION PROFESIONAL
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-Soy Tecnica en Sistemas Microinformaticos y Redes(fp SMR)
+-Actualmente estoy estudiando Desarrollo Aplicaciones Multiplataforma(fp DAM)
 
-<!--
-**LAURAQMDAM/LAURAQMDAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+INFORMACION PERSONAL
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Soy una persona responsable, generalmente tranquila, me gusta escuchar musica, ver series, jugar a videojuegos, y me aficionado a jugar
+al Padel
+Me gustan los animales sobre todo adoro a mis dos niñas que son la alegria de mi casa!
+![image](https://user-images.githubusercontent.com/91024077/161226750-db844d5b-9dcc-4ca7-8d06-0e71746a335c.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
